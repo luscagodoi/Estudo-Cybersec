@@ -5,13 +5,11 @@
 
 O WannaCry é um dos **ransomwares** (um malware que **criptografa os arquivos do computador** em troca de um **resgate financeiro**) mais danosos da história da cibersegurança. No dia **12 de maio de 2017**, milhares de sistemas ao redor do mundo foram contaminados. Hospitais, escolas, fábricas e diversas outras empresas perderam acesso aos seus sistemas. Em questão de horas, **150 países** estavam sob ataque do mesmo vírus.
 
-----------
 
 ## Ambiente afetado
 
 O ransomware afetou **ambientes Windows desatualizados**, aproveitando-se de uma **vulnerabilidade no protocolo SMB (TCP 445)**, conectando-se a outros computadores na rede e depois executando o malware, gerando assim uma **reação em cadeia**, afetando cada vez mais sistemas.
 
-----------
 
 ## Vetor de ataque
 
@@ -19,7 +17,6 @@ O vírus se aproveita de uma vulnerabilidade chamada **EternalBlue**, uma vulner
 
 Porém, em **agosto de 2016**, o grupo The Shadow Brokers alegou ter hackeado o Equation Group, um grupo de hackers sofisticado associado à NSA. Em **abril de 2017**, esse mesmo grupo vazou uma série de **malwares e ferramentas de hacking**, entre elas o EternalBlue.
 
-----------
 
 ## Cadeia do ataque
 
@@ -27,13 +24,11 @@ Depois de se **conectar ao alvo**, era utilizada outra ferramenta chamada **Doub
 
 Por último, o malware era executado: **todos os arquivos do computador eram criptografados**, e uma mensagem escrita **"Ooops, your files have been encrypted!"**, com uma **contagem regressiva**, informava que todos os arquivos seriam **excluídos** caso não fosse pago o valor de **US$ 300,00**. A mensagem foi traduzida para **200 línguas**, ampliando seu alcance global.
 
-----------
 
 ## Impacto
 
 O ataque durou por volta de **7 horas**, infectou mais de **230.000 computadores** em **150 países**, e os prejuízos podem chegar a cerca de **US$ 4.000.000.000**.
 
-----------
 
 ## Resposta e recuperação
 
@@ -47,7 +42,6 @@ Ao registrar esse domínio, ele percebeu que milhares de **máquinas** começara
 
 Isso acontecia porque o malware possuía um comportamento em que, ao conseguir se conectar a esse domínio, sua execução era interrompida. Esse mecanismo ficou conhecido como **“kill switch”**.
 
-----------
 
 ## Lições aprendidas
 
