@@ -1,2 +1,2 @@
 # Estudo-Cybersec
-Repositório destinado para o estudo de cyber security, ctf's, estudos de caso e afins.
+Repositório dedicado aos estudos de Cybersecurity, CTFs, estudos de caso e práticas relacionadas à segurança da informação.
